@@ -1,4 +1,4 @@
-HighCharts
+### HighCharts
 
 ### Getting started
 In the project directory, you can run:
